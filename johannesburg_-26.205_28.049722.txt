@@ -1,0 +1,8 @@
+Current Weather in Johannesburg 
+Current Conditions: Clouds
+Current Temprateure: 25.13 Celius 
+
+Current Air Quality in Johannesburg 
+Air Quality Index : 2
+NO2 Levels: 4.16
+PM10 Levels: 15.06

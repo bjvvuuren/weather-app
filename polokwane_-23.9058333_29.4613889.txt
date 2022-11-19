@@ -1,0 +1,8 @@
+Current Weather in Polokwane 
+Current Conditions: Clear
+Current Temprateure: 31.61 Celius 
+
+Current Air Quality in Polokwane 
+Air Quality Index : 2
+NO2 Levels: 0.19
+PM10 Levels: 16.73

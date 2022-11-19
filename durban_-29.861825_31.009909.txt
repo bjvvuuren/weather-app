@@ -1,0 +1,8 @@
+Current Weather in Durban 
+Current Conditions: Clouds
+Current Temprateure: 23.92 Celius 
+
+Current Air Quality in Durban 
+Air Quality Index : 1
+NO2 Levels: 4.16
+PM10 Levels: 4.76

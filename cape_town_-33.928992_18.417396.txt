@@ -1,0 +1,8 @@
+Current Weather in Cape Town 
+Current Conditions: Clouds
+Current Temprateure: 20.87 Celius 
+
+Current Air Quality in Cape Town 
+Air Quality Index : 1
+NO2 Levels: 0.3
+PM10 Levels: 6.25
